@@ -471,7 +471,7 @@ hr {
   background-color: dodgerblue;
   border-radius: 70px;
   height: 2vw;
-  color: #ffffff;
+   color: black;
   margin-left: 1vw;
   cursor: pointer;
   width: 5vw;
@@ -1096,7 +1096,7 @@ hr {
     background-color: #55d4d4;
     border-radius: 70px;
     height: 9vw;
-    color: #dfdada;
+     color: black;
     margin-left: 7vw;
     cursor: pointer;
     width: 34vw;
