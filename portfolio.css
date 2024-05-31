@@ -568,6 +568,33 @@ hr {
   margin-left: 35vw;
 }
 
+.btncv {
+  margin-top: 32vw;
+  background-color: dodgerblue;
+  border-radius: 70px;
+  height: 3vw;
+  color: black;
+  margin-left: -35vw;
+  cursor: pointer;
+  width: 7vw;
+  text-decoration: none;
+  display: inline-block;
+  text-align: center; 
+  line-height: 2vw; 
+}
+
+.btncv:focus {
+  text-decoration-line: none;
+  outline: none;
+}
+
+.btncv:hover {
+  transition: transform 0.3s ease;
+  transform: scale(1.2);
+  text-decoration: none;
+  outline: none;
+}
+
 @media only screen and (max-width: 768px) {
 
   header {
@@ -1014,7 +1041,33 @@ hr {
     margin-bottom: 39px;
   }
   
+  .btncv {
+    margin-top: 62vw;
+    background-color: dodgerblue;
+    border-radius: 70px;
+    height: 8vw;
+    color: black;
+    margin-left: -7vw;
+    cursor: pointer;
+    width: 23vw;
+    text-decoration: none;
+    display: inline-block;
+    text-align: center; 
+    line-height: 2vw; 
+  }
   
+  .btncv:focus {
+    text-decoration-line: none;
+    outline: none;
+  }
+  
+  .btncv:hover {
+    transition: transform 0.3s ease;
+    transform: scale(1.2);
+    text-decoration: none;
+    outline: none;
+  }
+
   .projectItem1 li {
     margin-top: 14vw;
     width: 110vw;
