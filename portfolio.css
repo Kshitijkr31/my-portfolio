@@ -1042,12 +1042,12 @@ hr {
   }
   
   .btncv {
-    margin-top: 62vw;
+    margin-top: 64vw;
     background-color: dodgerblue;
     border-radius: 70px;
     height: 8vw;
     color: black;
-    margin-left: -7vw;
+    margin-left: -2vw;
     cursor: pointer;
     width: 23vw;
     text-decoration: none;
