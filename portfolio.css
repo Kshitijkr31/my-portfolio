@@ -1119,11 +1119,11 @@ hr {
   }
   
   .aboutcontainer p{ 
-    width: 124vw;
-    word-wrap: normal;
-    font-size: 2.1rem;
-    padding-top: 50vw;
-    margin-left: 7vw;
+           width: 82vw;
+        word-wrap: normal;
+        font-size: 1.5rem;
+        padding-top: 40vw;
+        margin-left: 12vw;
   }
   .aboutcontainer {
     height: 96.5vh;
