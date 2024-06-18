@@ -866,14 +866,14 @@ hr {
   }
   
   .skillcontainer {
-    height: 57vh;
+    height: 45vh;
     padding-top: 10vw;
     margin-left: 37vw;
   }
   .skillcontainer h2 {
     margin-left: -3vw;
     font-size: 3.4rem;
-    margin-top: 33vw;
+    margin-top: 4vw;
   }
   
   .skill {
@@ -1023,7 +1023,7 @@ hr {
   
   
   .projectscontainer {
-    height: 77vh;
+    height: 45vh;
     margin-left: 37vw;
   }
   
@@ -1033,12 +1033,12 @@ hr {
     margin-left: -30vw;
     color: #a8a8fc;
     font-size: 17px;
-    margin-top: 59vw;
+    margin-top: -6vw;
 
   }
   .projectItem2 h1 {
     margin-left: -30vw;
-    margin-top: 20vw;
+    margin-top: 7vw;
     color: #a8a8fc;
     font-size: 17px;
     margin-bottom: 39px;
@@ -1125,18 +1125,18 @@ hr {
     width: 82vw;
     word-wrap: normal;
     font-size: 17px;
-    padding-top: 40vw;
+    padding-top: 16vw;
     margin-left: 12vw;
   }
   .aboutcontainer {
-    height: 62vh;
+    height: 50vh;
   }
   
   .contactcontainer{
     align-items: center;
     flex-direction: row;
     display: flex;
-    height: 67vh;
+    height: 57vh;
     width: 100%;
   }
   .contactcontainer img{
