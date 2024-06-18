@@ -471,7 +471,7 @@ hr {
   background-color: dodgerblue;
   border-radius: 70px;
   height: 2vw;
-   color: black;
+  color: black;
   margin-left: 1vw;
   cursor: pointer;
   width: 5vw;
@@ -569,18 +569,18 @@ hr {
 }
 
 .btncv {
-  margin-top: 32vw;
+  margin-top: 24vw;
   background-color: dodgerblue;
   border-radius: 70px;
   height: 3vw;
   color: black;
-  margin-left: -35vw;
+  margin-left: -7vw;
   cursor: pointer;
-  width: 7vw;
+  width: 9vw;
   text-decoration: none;
   display: inline-block;
-  text-align: center; 
-  line-height: 2vw; 
+  text-align: center;
+  line-height: 2vw;
 }
 
 .btncv:focus {
@@ -600,7 +600,7 @@ hr {
   header {
     width: 100%;
     margin-top: -5px;
-    position: fixed;
+    position: relative;
   }
   
   nav {
@@ -616,8 +616,9 @@ hr {
   }
   
   nav ul {
+    font-size: 10px;
     margin-top: -3px;
-    margin-left: 21vw;
+    margin-left: 11vw;
     flex-direction: row;
     justify-content: center;
   }
@@ -630,7 +631,7 @@ hr {
   
   nav ul li {
     list-style: none;
-    margin-left: 11px;
+    margin-left: 27px;
   }
   
   nav ul li a {
@@ -648,13 +649,13 @@ hr {
   }
   
   .left {
-    margin-left: 35px;
+    margin-left: 1px;
     width: 6px;
-    font-size: 16px;
+    font-size: 13px;
   }
   
   .right {
-    margin-left: -6vw;
+    margin-left: -4vw;
   }
   
   .firstsection {
@@ -669,20 +670,21 @@ hr {
   }
   
   .leftsection {
+    margin-left: 5vw;
     margin-top: 33%;
         font-size: 1.2rem;
   }
   
   .rightsection {
     margin-top: 9%;
-  
+    margin-right: 9vw;
     width: 55px;
   }
   
   .rightsection img {
     border-radius: 240px;
     margin-top: 100px;
-    margin-left: 83px;
+    margin-left: 55px;
     width: 80%;
   }
   
@@ -700,6 +702,7 @@ hr {
   hr {
     margin-top: 18vw;
     border: 0;
+    width: 100%;
     height: 1px;
     background: #aa6be4;
   }
@@ -730,23 +733,23 @@ hr {
   .hackerrankhead {
     font-size: 1.4rem;
     padding-top: 10px;
-    margin-left: 26vw;
+    margin-left: 16vw;
   }
   
   .Googleanalaysehead {
     margin-top: -13vw;
     font-size: 1.6rem;
     padding-top: 78px;
-    margin-left: 32vw;
+    margin-left: 21vw;
   }
   .learninghead {
-    margin-top: 1px;
-    width: 75vw;
-    font-size: 23px;
-    margin-left: 19vw;
+    margin-top: 39px;
+        width: 75vw;
+        font-size: 21px;
+    margin-left: 12vw;
   }
   .internshiphead {
-    margin-top: 74vw;
+    margin-top: 81vw;
     width: 89vw;
     font-size: 23px;
     padding-left: 23px;
@@ -755,79 +758,79 @@ hr {
   
   .hackp1 {
     padding-top: 16px;
-    font-size: 22px;
+    font-size: 16px;
     margin-left: -2vw;
     width: 382px;
     display: flex;
   }
   .hackp2 {
     padding-top: 16px;
-    font-size: 22px;
+    font-size: 16px;
     margin-left: -2vw;
     width: 382px;
     display: flex;
   }
   .hackp3 {
     padding-top: 16px;
-    font-size: 22px;
+    font-size: 16px;
     margin-left: -2vw;
     width: 382px;
     display: flex;
   }
   .learning1 {
-    font-size: 20px;
+    font-size: 16px;
     margin-left: 10vw;
-    width: 90vw;
+    width: 53vw;
     margin-top: -4px;
     display: flex;
   }
   .learning2 {
     margin-top: -9px;
-    font-size: 20px;
-    margin-left: 9vw;
-    width: 87vw;
+    font-size: 16px;
+    margin-left: 10vw;
+    width: 53vw;
     display: flex;
   }
   .internshipheadp1 {
-    font-size: 20px;
-    margin-top: -2vw;
-    margin-left: 17vw;
-    width: 91vw;
+    font-size: 16px;
+    margin-top: 4vw;
+    margin-left: 19vw;
+    width: 67vw;
     display: flex;
   }
   .internshipheadp2 {
-    font-size: 20px;
-    margin-left: 17vw;
-    width: 91vw;
+    font-size: 16px;
+        margin-left: 19vw;
+        width: 66vw;
     margin-top: 6px;
     display: flex;
   }
   .internshipheadp3 {
     padding-top: 22px;
-    font-size: 20px;
-    margin-left: 16vw;
-    width: 86vw;
+    font-size: 16px;
+    margin-left: 19vw;
+    width: 63vw;
     display: flex;
 }
   
  
   .Googleanalaysep1 {
     padding-top: 13px;
-    font-size: 23px;
+    font-size: 16px;
     margin-left: 8vw;
-    width: 84vw;
+    width: 69vw;
     display: flex;
   }
   
   .footer {
     padding-top: 46px;
-    padding-left: 12px;
-    width: 132%;
-    margin-top: 140px;
-    justify-content: space-evenly;
+    padding-left: 0px;
+    width: 100%;
+    margin-top: 76px;
+    justify-content: space-around;
     height: 36vw;
     display: flex;
-    font-size: small;
+    font-size: 12px;
   }
   .footer {
     background-color: #222248;
@@ -845,10 +848,11 @@ hr {
   }
   
   .footer-descp {
+    font-size: 14px;
     background-color: #1c1c40;
     text-align: center;
     color: #858582;
-    width: 135%;
+    width: 100%;
   }
   
   .footer ul li a {
@@ -862,14 +866,14 @@ hr {
   }
   
   .skillcontainer {
-    height: 92vh;
+    height: 57vh;
     padding-top: 10vw;
     margin-left: 37vw;
   }
   .skillcontainer h2 {
-    margin-left: -18vw;
-    font-size: 4.4rem;
-    margin-top: 80vw;
+    margin-left: -3vw;
+    font-size: 3.4rem;
+    margin-top: 33vw;
   }
   
   .skill {
@@ -881,8 +885,8 @@ hr {
   
   .skillItem {
     display: flex;
-    margin-left: -21vw;
-    font-size: 2.4rem;
+    margin-left: -29vw;
+    font-size: 1.4rem;
     align-items: center;
     font-family: "Source Code Pro", monospace;
     font-weight: 900;
@@ -891,7 +895,7 @@ hr {
   .hundred {
    
     margin-left: 2vw;
-    width: 88vw;
+    width: 63vw;
     background-color: green;
   }
   
@@ -934,8 +938,8 @@ hr {
   }
   
   .left-container1 img {
-    margin-top: 62px;
-    width: 20vw;
+    margin-top: 72px;
+    width: 12vw;
     padding-left: 3vw;
   }
   
@@ -978,8 +982,8 @@ hr {
   }
   
   .left-container3 img {
-    margin-top: 38px;
-    width: 26vw;
+    margin-top: 68px;
+    width: 20vw;
     padding-left: 0vw;
   }
   .both-container4 {
@@ -1001,9 +1005,9 @@ hr {
   }
   
   .img11 {
-    margin-top: 135vw;
-    width: 12vw;
-    padding-left: 3vw;
+    margin-top: 145vw;
+    width: 15vw;
+    padding-left: 1vw;
   }
   
   .img12 {
@@ -1019,41 +1023,40 @@ hr {
   
   
   .projectscontainer {
-    height: 92vh;
-    padding-top: 10vw;
+    height: 77vh;
     margin-left: 37vw;
   }
   
   
   .projectItem1 h1 {
-    width: 109vw;
-    margin-left: -31vw;
+    width: 90vw;
+    margin-left: -30vw;
     color: #a8a8fc;
-    font-size: 2.4rem;
-    margin-bottom: 20px;
-    margin-top: 18vw;
+    font-size: 17px;
+    margin-top: 59vw;
+
   }
   .projectItem2 h1 {
-    margin-left: -31vw;
-    margin-top: 26vw;
+    margin-left: -30vw;
+    margin-top: 20vw;
     color: #a8a8fc;
-    font-size: 2.4rem;
+    font-size: 17px;
     margin-bottom: 39px;
   }
   
   .btncv {
-    margin-top: 64vw;
+    margin-top: 61vw;
     background-color: dodgerblue;
     border-radius: 70px;
-    height: 8vw;
+    height: 6vw;
     color: black;
-    margin-left: -2vw;
+    margin-left: -5vw;
     cursor: pointer;
-    width: 23vw;
+    width: 22vw;
     text-decoration: none;
     display: inline-block;
-    text-align: center; 
-    line-height: 2vw; 
+    text-align: center;
+    line-height: 2vw;
   }
   
   .btncv:focus {
@@ -1069,41 +1072,41 @@ hr {
   }
 
   .projectItem1 li {
-    margin-top: 14vw;
+    margin-top: 3vw;
     width: 110vw;
     height: 4vw;
     display: flex;
-    font-size: 1.9rem;
+    font-size: 15px;
     color: #aa6be4;
     align-items: center;
     font-family: "Source Code Pro", monospace;
     font-weight: 900;
-    margin-left: -27vw;
+    margin-left: -33vw;
   }
   .projectItem2 li {
     height: 4vw;
-    display: flex;
-    color: #aa6be4;
-    font-size: x-large;
-    align-items: center;
-    font-family: "Source Code Pro", monospace;
-    font-weight: 900;
-    margin-top: 41px;
-    margin-left: -21vw;
+        display: flex;
+        color: #aa6be4;
+        font-size: 15px;
+        align-items: center;
+        font-family: "Source Code Pro", monospace;
+        font-weight: 900;
+        margin-top: 15px;
+        margin-left: -32vw;
   }
   
   .btn {
     background-color: #55d4d4;
     border-radius: 70px;
-    height: 9vw;
-     color: black;
-    margin-left: 7vw;
+    height: 6vw;
+    color: #dfdada;
+    margin-left: 4vw;
     cursor: pointer;
-    width: 34vw;
+    width: 20vw;
     text-decoration: none;
     display: inline-block;
     text-align: center;
-    line-height: 2vw; 
+    line-height: 2vw;
   }
   
   .btn:focus {
@@ -1119,26 +1122,26 @@ hr {
   }
   
   .aboutcontainer p{ 
-           width: 82vw;
-        word-wrap: normal;
-        font-size: 1.5rem;
-        padding-top: 40vw;
-        margin-left: 12vw;
+    width: 82vw;
+    word-wrap: normal;
+    font-size: 17px;
+    padding-top: 40vw;
+    margin-left: 12vw;
   }
   .aboutcontainer {
-    height: 96.5vh;
+    height: 62vh;
   }
   
   .contactcontainer{
     align-items: center;
     flex-direction: row;
     display: flex;
-    height: 108vh;
-    width: 135.0%;
+    height: 67vh;
+    width: 100%;
   }
   .contactcontainer img{
     flex-direction: column;
-    margin-left: 11vw;
+    margin-left: 4vw;
     display: flex;
     margin-top: 8vw;
     width: 14vw;
@@ -1150,12 +1153,12 @@ hr {
   
   .footer-contact{
     padding-top: 46px;
-    padding-left: 12px;
-    width: 132%;
+    padding-left: 0px;
+    width: 100%;
     justify-content: space-evenly;
     height: 36vw;
     display: flex;
-    font-size: small;
+    font-size: 9px;
   }
   .footer-contact {
     background-color: #222248;
@@ -1195,8 +1198,7 @@ hr {
   }
   
   .emaill p{
-    margin-left: 17vw;
-    width: 109vw;
+    margin-left: 9vw;
+    font-size: 20px;
   }
-
 }
